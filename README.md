@@ -1,9 +1,8 @@
 # Machine Learning for Aortic Disease Prediction with Statlog Dataset
 
 ---
-```css
+
 Problem Statement : Despite the advancements in medical imaging and diagnostic techniques, the early detection and prediction of Aortic diseases remain challenging. The utilization of machine learning algorithms presents an opportunity to enhance predictive models using the Statlog dataset. However, developing accurate and reliable machine learning models for Aortic Disease Prediction requires addressing various challenges such as data heterogeneity, feature selection, and model interpretability. This project aims to explore and overcome these challenges to develop a robust and clinically relevant predictive model for Aortic diseases using the Statlog dataset.
-```
 
 ---
 
