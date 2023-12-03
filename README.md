@@ -11,3 +11,11 @@ The project, created by **Shivam (21CSU090)** and **Saransh Shukla (21CSU461)** 
 
 1. Develop a system capable of performing binary classification to determine the absence (1) or presence (2) of heart disease. The dataset used for this purpose can be found at this link: [Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Statlog+%28Heart%29).
 2. Evaluate the performance of five different classification algorithms - Logistic Regression, Support Vector Machine (SVM), Decision Tree, Naiive Bayes and K-Nearest Neighbors (K-NN). The evaluation metrics used were accuracy, precision, recall, and F1 score.
+
+---
+
+## Contributors
+
+- [Shivam Goyal](https://www.linkedin.com/in/shivam2003/)
+- [Saransh Shukla](https://www.linkedin.com/in/saransh2003)
+---
